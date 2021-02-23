@@ -1,0 +1,9 @@
+body {
+  background-color: beige;
+}
+
+.text-vertical {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  margin: 0;
+}
